@@ -1,6 +1,6 @@
-# Code-MOE
+# Code-SARL
 
-This repository contains the official implementation of **Code-MOE**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
+This repository contains the official implementation of **Code-SARL**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
 
 ---
 
@@ -11,14 +11,6 @@ The datasets used in this study are publicly available from their respective dat
 - **ADReSS dataset**  
   Available through the DementiaBank platform:  
   https://talkbank.org/dementia/ADReSS-2020/
-
-- **ADReSSo dataset**  
-  Available through the DementiaBank platform:  
-  https://talkbank.org/dementia/ADReSSo-2021/
-
-- **NCMMSC2021 Alzheimer's Disease Recognition dataset**  
-  Available through the official dataset page:  
-  https://web.ee.tsinghua.edu.cn/satlab/en/gxsj/7552/content/1011.htm
 
 - **TAUKADIAL dataset**  
   Available through DementiaBank:  
