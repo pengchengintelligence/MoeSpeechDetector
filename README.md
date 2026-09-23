@@ -1,6 +1,6 @@
-# Code-SARL
+#  SARL: SUBJECT-ADAPTIVE RELIABILITY LEARNING FOR MULTIMODAL SPEECH-BASED COGNITIVE IMPAIRMENT DETECTION
 
-This repository contains the official implementation of **Code-SARL**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
+This repository contains the official implementation of **SARL**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
 
 ---
 
@@ -61,6 +61,7 @@ The proposed method has not been approved as a clinical diagnostic tool and shou
 
 ## Acknowledgments
 
+This work was developed at Harbin Engineering University.
 We sincerely thank all dataset providers, participants, and collaborators for making this research possible.
 
 ---
