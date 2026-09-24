@@ -1,7 +1,5 @@
 #  SARL: SUBJECT-ADAPTIVE RELIABILITY LEARNING FOR MULTIMODAL SPEECH-BASED COGNITIVE IMPAIRMENT DETECTION
 
-This repository contains the official implementation of **SARL**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
-
 **Lili Zheng<sup>1</sup>, Hong Liang<sup>1</sup>, Sichen Li<sup>3</sup>, Yue Hua<sup>4</sup>, Chen Jason Zhang<sup>2</sup>, Qi Shao<sup>1</sup>, Baoru Huang<sup>5</sup>, Shan Cong<sup>1,6,†</sup>, Xiaohui Yao<sup>1,†</sup>, Haoran Luo<sup>2,†</sup>**
 
 <sup>1</sup> College of Intelligent Systems Science and Engineering, Harbin Engineering University, Harbin, China  
@@ -10,6 +8,10 @@ This repository contains the official implementation of **SARL**, a multimodal f
 <sup>4</sup> School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, China  
 <sup>5</sup> School of Computer Science and Informatics, University of Liverpool, Liverpool, United Kingdom  
 <sup>6</sup> Stem Cell and Regenerative Biology, Genome Institute of Singapore, A*STAR, Singapore
+
+---
+
+This repository contains the official implementation of **SARL**, a multimodal framework for cognitive impairment detection using speech and text representations extracted from pretrained foundation models.
 
 ---
 
